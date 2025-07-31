@@ -1,0 +1,14 @@
+/* Tables specific styles */
+table {
+    background-color: #fff;
+}
+
+th {
+    background-color: #f8f9fa;
+    font-weight: bold;
+}
+
+td, th {
+    vertical-align: middle;
+    white-space: nowrap;
+}

@@ -1,0 +1,6 @@
+/* Responsive tweaks */
+@media (max-width: 767.98px) {
+    .navbar-nav .nav-link {
+        padding-left: 0;
+    }
+}

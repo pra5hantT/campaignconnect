@@ -1,0 +1,9 @@
+/* Modal styles */
+.modal-header {
+    background-color: #0d6efd;
+    color: #fff;
+}
+
+.modal-footer {
+    justify-content: flex-end;
+}
